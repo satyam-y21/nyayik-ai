@@ -81,7 +81,7 @@ Nyayik therefore uses:
 
 ### Performance (Sample Queries)
 
-Measured on real queries against the live system0.
+Measured on real queries against the live system.
 
 | Query                              | Total Latency | Retrieval | Generation | Top Similarity |
 |------------------------------------|---------------|-----------|------------|----------------|
